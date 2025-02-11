@@ -65,7 +65,13 @@ footer{
     font-family: cursive;
     font-size: medium;
     margin-top: 15%;
-
-
 }
+    .lovelink{
+         color: red;
+    font-size: 18px;
+    display: block;
+    margin-top: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    }
 
